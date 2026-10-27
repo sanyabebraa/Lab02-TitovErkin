@@ -1,0 +1,14 @@
+C:\Users\Student_13\documents\Lab02-TitovErkin\bin\Debug\net10.0\Lab02-TitovErkin.exe
+C:\Users\Student_13\documents\Lab02-TitovErkin\bin\Debug\net10.0\Lab02-TitovErkin.deps.json
+C:\Users\Student_13\documents\Lab02-TitovErkin\bin\Debug\net10.0\Lab02-TitovErkin.runtimeconfig.json
+C:\Users\Student_13\documents\Lab02-TitovErkin\bin\Debug\net10.0\Lab02-TitovErkin.dll
+C:\Users\Student_13\documents\Lab02-TitovErkin\bin\Debug\net10.0\Lab02-TitovErkin.pdb
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\Lab02-TitovErkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\Lab02-TitovErkin.AssemblyInfoInputs.cache
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\Lab02-TitovErkin.AssemblyInfo.cs
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\Lab02-TitovErkin.csproj.CoreCompileInputs.cache
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\Lab02-TitovErkin.dll
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\refint\Lab02-TitovErkin.dll
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\Lab02-TitovErkin.pdb
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\Lab02-TitovErkin.genruntimeconfig.cache
+C:\Users\Student_13\documents\Lab02-TitovErkin\obj\Debug\net10.0\ref\Lab02-TitovErkin.dll
